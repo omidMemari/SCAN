@@ -1,0 +1,11 @@
+{
+    "test_bleu": 99.9433,
+    "test_exact_match_percentage": 0.9964,
+    "test_gen_len": 62.0188,
+    "test_loss": 0.00021045177709311247,
+    "test_mean_sequence_accuracy": 1.0,
+    "test_runtime": 556.3642,
+    "test_samples": 4476,
+    "test_samples_per_second": 8.045,
+    "test_steps_per_second": 0.403
+}

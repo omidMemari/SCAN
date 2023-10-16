@@ -1,0 +1,17 @@
+{
+    "epoch": 60.0,
+    "test_bleu": 99.9433,
+    "test_exact_match_percentage": 0.9964,
+    "test_gen_len": 62.0188,
+    "test_loss": 0.00021045177709311247,
+    "test_mean_sequence_accuracy": 1.0,
+    "test_runtime": 556.3642,
+    "test_samples": 4476,
+    "test_samples_per_second": 8.045,
+    "test_steps_per_second": 0.403,
+    "train_loss": 0.0021691048159245187,
+    "train_runtime": 27628.6566,
+    "train_samples": 15225,
+    "train_samples_per_second": 33.063,
+    "train_steps_per_second": 1.655
+}
